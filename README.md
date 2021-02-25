@@ -22,7 +22,7 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 
 
 
-  <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+  <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/L3dH5oTroM7JcIEbct/giphy.gif" />
   
   
   
