@@ -21,13 +21,22 @@
 Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yoboshu Pvt Ltd, a behavioural change program in healthcare ,fitness and wellness. 🧑‍⚕️ [@yoboshu](https://yoboshu.com), I also studied Aerospace engineering and love Rocket Science 🚀.
 
 
+
   <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+  
+  
   
 **Some uninteresting 🙇 Personal Stuffs:**
 
 - 🌱 I’m currently learning React and  📚 Reading Skiena's Algorithm Dsign Manual
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: contact@yoboshu.in
+
+
+
+
+
+
 
 
 
