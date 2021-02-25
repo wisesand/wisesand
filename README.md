@@ -23,7 +23,7 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Some uninteresting Personal Stuffs:**
 
 - 🌱 I’m currently learning React and  📚 Reading Skiena's Algorithm Dsign Manual
 - 💬 Ask me about anything, I am happy to help.
@@ -43,6 +43,6 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/svg/919/919831.svg"></code>
+
 
 
