@@ -21,7 +21,7 @@
 Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yoboshu Pvt Ltd, a behavioural change program in healthcare ,fitness and wellness. 🧑‍⚕️ [@yoboshu](https://yoboshu.com), I also studied Aerospace engineering and love Rocket Science 🚀.
 
 
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47ujcabjywmiblswj3yzx6jnelu8wvxosat6nd1bi2&rid=200w.webp" />
+  <img align="right" alt="GIF" width="400px" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47ujcabjywmiblswj3yzx6jnelu8wvxosat6nd1bi2&rid=200w.webp" />
   
 **Some uninteresting 🙇 Personal Stuffs:**
 
@@ -41,6 +41,7 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/heroku.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/google-cloud.svg"></code>
