@@ -41,9 +41,9 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/heroku/heroku.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/heroku.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 
 
