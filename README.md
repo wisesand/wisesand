@@ -18,15 +18,15 @@
 
 <br />
 
-Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yoboshu Pvt Ltd, a behavioural change program in healthcare ,fitness and wellness.  🙍🏽‍♂️ [@yoboshu](https://yoboshu.com), I also studied Aerospace engineering and love Rocket Science.
+Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yoboshu Pvt Ltd, a behavioural change program in healthcare ,fitness and wellness. 🧑‍⚕️ [@yoboshu](https://yoboshu.com), I also studied Aerospace engineering and love Rocket Science 🚀.
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React and Reading Steve Skiena
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning React and  📚 Reading Skiena's Algorithm Dsign Manual
+- 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: contact@yoboshu.in
 
 
