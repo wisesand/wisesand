@@ -35,15 +35,21 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/typescript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/redux.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/heroku.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/google-cloud.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/html5.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/css3.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/mongodb.svg"></code>
+
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 
 
