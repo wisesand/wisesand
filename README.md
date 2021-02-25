@@ -21,7 +21,7 @@
 Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yoboshu Pvt Ltd, a behavioural change program in healthcare ,fitness and wellness. 🧑‍⚕️ [@yoboshu](https://yoboshu.com), I also studied Aerospace engineering and love Rocket Science 🚀.
 
 
-  <img align="right" alt="GIF" width="400px" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47ujcabjywmiblswj3yzx6jnelu8wvxosat6nd1bi2&rid=200w.webp" />
+  <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif" />
   
 **Some uninteresting 🙇 Personal Stuffs:**
 
