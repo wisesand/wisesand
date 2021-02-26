@@ -29,7 +29,7 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 **Some uninteresting 🙇 Personal Stuffs:**
 
 - 🌱 I’m currently 📚 Reading Skiena's Algorithm Design Manual
-- 💬 Ask me about anything, I am happy to help.
+- 💬 Ask me about anything related to my work, I am happy to help.
 - 📫 How to reach me: contact@yoboshu.in
 
 
