@@ -31,6 +31,7 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 - 🌱 I’m currently 📚 Reading Skiena's Algorithm Design Manual
 - 💬 Ask me about anything related to my work, I am happy to help.
 - 📫 How to reach me: contact@yoboshu.in
+- 🍳I like cooking occasionally
 
 
 
@@ -57,6 +58,7 @@ Hi, I'm Sandeep Kumar, a self taught  💻 developer, currently working  at Yobo
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/html5.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/css3.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/mongodb.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/linux.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 
 
